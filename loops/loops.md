@@ -5,9 +5,9 @@ They are three types of loops in javascript.
 Good to use when we don't know the exact number of iterations we are going to have.
 A "while loop" is composed of three components :
 
-1- Indexer variable (a variable that we will evalute against our condition, if true we continue iterating, otherwise we don't)
-2- Condition (while this condition is true, we will iterate over and over again)
-3- change the value of the indexer (we must not forget to change the value of the indexer variable to get out of the loop)
+1- Indexer variable (a variable that we will evalute against our condition, if true we continue iterating, otherwise we don't)<br/>
+2- Condition (while this condition is true, we will iterate over and over again)<br/>
+3- change the value of the indexer (we must not forget to change the value of the indexer variable to get out of the loop)<br/>
 
 ## For loop
 
